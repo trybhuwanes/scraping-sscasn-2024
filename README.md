@@ -1,3 +1,5 @@
+![SCRAPING DATA SSCASN 2024](https://github.com/user-attachments/assets/bf532387-e0f4-453c-8aee-351191c140f3)
+
 Scraping Data Website SSCASN 2024
 
 Guide to use the code:
